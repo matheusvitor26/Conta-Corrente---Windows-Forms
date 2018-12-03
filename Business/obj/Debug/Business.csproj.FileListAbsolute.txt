@@ -1,0 +1,9 @@
+C:\Users\MSilva\Source\Teste_Entrevista\Business\bin\Debug\Business.dll
+C:\Users\MSilva\Source\Teste_Entrevista\Business\bin\Debug\Business.pdb
+C:\Users\MSilva\Source\Teste_Entrevista\Business\bin\Debug\Data.dll
+C:\Users\MSilva\Source\Teste_Entrevista\Business\bin\Debug\Data.pdb
+C:\Users\MSilva\Source\Teste_Entrevista\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\MSilva\Source\Teste_Entrevista\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\MSilva\Source\Teste_Entrevista\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\MSilva\Source\Teste_Entrevista\Business\obj\Debug\Business.dll
+C:\Users\MSilva\Source\Teste_Entrevista\Business\obj\Debug\Business.pdb

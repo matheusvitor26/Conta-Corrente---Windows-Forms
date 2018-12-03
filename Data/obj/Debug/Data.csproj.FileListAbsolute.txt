@@ -1,0 +1,6 @@
+C:\Users\MSilva\Source\Teste_Entrevista\Data\bin\Debug\Data.dll
+C:\Users\MSilva\Source\Teste_Entrevista\Data\bin\Debug\Data.pdb
+C:\Users\MSilva\Source\Teste_Entrevista\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\MSilva\Source\Teste_Entrevista\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\MSilva\Source\Teste_Entrevista\Data\obj\Debug\Data.dll
+C:\Users\MSilva\Source\Teste_Entrevista\Data\obj\Debug\Data.pdb
